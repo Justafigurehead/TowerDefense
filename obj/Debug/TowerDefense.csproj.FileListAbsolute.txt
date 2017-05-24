@@ -1,0 +1,6 @@
+c:\users\strac\documents\visual studio 2017\Projects\TowerDefense\TowerDefense\obj\Debug\TowerDefense.csprojResolveAssemblyReference.cache
+c:\users\strac\documents\visual studio 2017\Projects\TowerDefense\TowerDefense\bin\Debug\TowerDefense.exe.config
+c:\users\strac\documents\visual studio 2017\Projects\TowerDefense\TowerDefense\bin\Debug\TowerDefense.exe
+c:\users\strac\documents\visual studio 2017\Projects\TowerDefense\TowerDefense\bin\Debug\TowerDefense.pdb
+c:\users\strac\documents\visual studio 2017\Projects\TowerDefense\TowerDefense\obj\Debug\TowerDefense.exe
+c:\users\strac\documents\visual studio 2017\Projects\TowerDefense\TowerDefense\obj\Debug\TowerDefense.pdb
