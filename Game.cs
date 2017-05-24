@@ -12,9 +12,23 @@ namespace TowerDefense
         {
             Map map = new Map(8, 5);
 
-            Point point = new Point(4, 2);
-            Console.WriteLine(point.DistanceTo(5, 5));
-            Console.ReadKey();
+            try
+            {
+                MapLocation mapLocation = new MapLocation(20, 20, map);
+            }
+            catch (OutOfBoundsException ex)
+            {
+
+            }
+            catch(Exceptions ex)
+            {
+
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+                Console.ReadKey();
+            }
             
         }
     }
